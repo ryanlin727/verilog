@@ -1,0 +1,11 @@
+<!DOCTYPE Desktop SYSTEM "hdl-prj.dtd">
+<Desktop>
+  <ProjectWindow X="0" Y="0" W="620" H="277">
+    <Column>353</Column>
+    <Column>60</Column>
+    <Column>50</Column>
+    <Column>50</Column>
+  </ProjectWindow>
+  <SourceWindow X="115" Y="167" W="1058" H="383" File="gtob_test.v" Line="3"></SourceWindow>
+  <SourceWindow X="73" Y="167" W="1058" H="383" File="gtob.v" Line="8"></SourceWindow>
+</Desktop>
