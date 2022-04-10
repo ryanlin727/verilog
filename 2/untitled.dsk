@@ -1,0 +1,11 @@
+<!DOCTYPE Desktop SYSTEM "hdl-prj.dtd">
+<Desktop>
+  <ProjectWindow X="1" Y="1" W="663" H="302">
+    <Column>303</Column>
+    <Column>60</Column>
+    <Column>50</Column>
+    <Column>50</Column>
+  </ProjectWindow>
+  <SourceWindow X="642" Y="45" W="547" H="356" File="MyTest1_new.v" Line="10"></SourceWindow>
+  <SourceWindow X="71" Y="40" W="566" H="355" File="check_circuit.v" Line="6"></SourceWindow>
+</Desktop>
